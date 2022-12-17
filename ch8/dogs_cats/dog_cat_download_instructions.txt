@@ -1,0 +1,5 @@
+To use the data, download the Docs vs Cats dataset from 
+
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+Save this as "dogs-vs-cats.zip", uncompress and then uncompress the training set.
